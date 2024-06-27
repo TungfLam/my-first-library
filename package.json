@@ -1,6 +1,6 @@
 {
-  "name": "hello-library",
-  "version": "1.0.1",
+  "name": "library-tungflam",
+  "version": "1.0.2",
   "description": "tungf",
   "main": "index.js",
   "scripts": {
