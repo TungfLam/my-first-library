@@ -1,6 +1,6 @@
 {
   "name": "library-tungflam",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "tungf",
   "main": "index.js",
   "scripts": {
