@@ -1,0 +1,20 @@
+{
+  "name": "hello-library",
+  "version": "1.0.0",
+  "description": "tungf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/my-js-library.git"
+  },
+  "keywords": [
+    "greet",
+    "hello",
+    "library"
+  ],
+  "author": "TungfLam",
+  "license": "MIT"
+}
